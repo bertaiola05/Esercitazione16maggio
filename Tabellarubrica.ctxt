@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tabellarubrica
+comment1.params=dimensione
+comment1.target=Tabellarubrica(int)
+comment10.params=posizioneIniziale\ chiave\ operazione
+comment10.target=int\ scansioneLineare(int,\ java.lang.String,\ char)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=chiave
+comment2.target=int\ hash(java.lang.String)
+comment3.params=chiave\ operazione
+comment3.target=int\ cercaContatto(java.lang.String,\ char)
+comment4.params=parolachiave
+comment4.target=Contatto\ cerca(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumeroPersone()
+comment6.params=Contatto
+comment6.target=int\ inserisciContattoTelefono(Contatto)
+comment7.params=Contatto
+comment7.target=int\ inserisciContattoEmail(Contatto)
+comment8.params=informazioni
+comment8.target=int\ eliminaContatto(java.lang.String)
+comment9.params=
+comment9.target=void\ visualizzaStatoTabella()
+numComments=12

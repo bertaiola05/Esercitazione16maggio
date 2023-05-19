@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TabellaException
+comment1.params=error
+comment1.target=TabellaException(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getError()
+numComments=3
